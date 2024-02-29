@@ -1,0 +1,1 @@
+# inheritance-between-ES6-classes
